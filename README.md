@@ -1,4 +1,4 @@
-# Car_iot
+# Smart-Parking-Information-IoT-using-raspberry-Pi
  A real time detection of car parking slot using raspberry pi and show the information on web page.<br />
  #You are free to add n amounts of sensors but dont forget to update the take par in the sensor column.<br />
  #Web page is simple showing the company logo and in center there is a box which display how many parking has been taken.<br />
